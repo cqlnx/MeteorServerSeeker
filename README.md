@@ -40,7 +40,6 @@ And just that easy, the servers are now in your server list!   <br />
 
 
 ### Searching for players
-<img width="503" height="375" alt="2" src="https://github.com/user-attachments/assets/fa23c664-203f-4235-8440-3f86b3e1aee3" /><br />
 Let's say we want to find the player with the name <b>"popiiumaa"</b>. We just type "popiiumaa" into the box, and click on <b>"Find Player"</b>   <br />
 <img width="411" height="188" alt="5" src="https://github.com/user-attachments/assets/c14b0bb7-edef-4aac-b0b9-c9fe15e9c78a" /><br />
 Now we can just add the servers we want, or <b>even add all!</b>   <br />
